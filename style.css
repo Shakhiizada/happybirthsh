@@ -1,0 +1,78 @@
+body {
+    background-color:rgb(249, 238, 192);
+    height: 1900px;
+}
+
+.hp h1{
+    color:rgb(216, 116, 241);
+    margin-left: 290px;
+    margin-top: 50px;
+    background-color: rgb(149, 223, 244);
+    /* margin-right:450px; */
+    width: 1000px;
+    
+}
+#name{
+
+    background-color: rgb(149, 223, 244);
+    width: 415px;
+}
+
+.hp h2 {
+    color: rgb(84, 62, 63);
+    margin-top: 70px;
+    margin-left: 90px;
+    background-color:rgb(250, 172, 245);
+    margin-right:500px;
+    width: 660px;
+}
+
+.hp h3{
+    margin-left: 500px;
+    width: auto; /* Ширина прямоугольника */ 
+    height: auto; /* Высота прямоугольника */ 
+    border: 3px solid #e4a6ea; /* Граница прямоугольника */ 
+    font-size: 50px;
+    display: inline-flex; 
+    background-color: rgb(195, 63, 247);
+    color: beige;
+}
+
+.hp #name {
+    color: rgb(233, 46, 226);
+    margin-left: 35%;
+    margin-top: 40px;
+}
+
+.stick {
+    margin-left: 500px;
+    margin-top: -50px;
+}
+
+.smile {
+    margin-left: 94px;
+}
+
+.img-box {
+    margin-left: 880px;
+    margin-top: -1590px;
+    width: 280px; /* Ширина прямоугольника */ 
+    height: 320px; /* Высота прямоугольника */ 
+    border: 3px solid #e4a6ea; /* Граница прямоугольника */ 
+}
+
+.img-box4 {
+    margin-left: 880px;
+    margin-top: 10px;
+    width: 280px; /* Ширина прямоугольника */ 
+    height: 320px; /* Высота прямоугольника */ 
+    border: 3px solid #e4a6ea; /* Граница прямоугольника */ 
+}
+
+.img-box5 {
+    margin-left: 880px;
+    margin-top: 10px;
+    width: 280px; /* Ширина прямоугольника */ 
+    height: 320px; /* Высота прямоугольника */ 
+    border: 3px solid #e4a6ea; /* Граница прямоугольника */ 
+}
